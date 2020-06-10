@@ -13,10 +13,12 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        // this is comment. should push this comment. testing.
+//        // this is comment. should push this comment. testing.
+//
+//        TextView textView = (TextView)findViewById(R.id.textView);
 
-        TextView textView = (TextView)findViewById(R.id.textView);
 
+        // all commented    
 
     }
 }
